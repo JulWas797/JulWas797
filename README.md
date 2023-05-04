@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👋
 
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
@@ -23,4 +23,11 @@ Altrought I may not know everything, that's what I'm trying to improve. Currentl
 
 ### ![VB.net](https://img.shields.io/badge/Visual%20Basic%20.NET-0000FF.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
-// VB.net is the language i coded in the most. While doing so i learned many important  (draft)
+VB.net is the language i coded in the most. While doing so i learned many of the .NET quirks and specific libaries, especially related to security and I/O. I also learned aspects such as Windows Registry. Unfortunately due to platform issues, i took a break from this language so currently my overall knowledge of it is worse.
+
+### ![C Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+C is one of the newest language i learned, and many of the things of it still confuse me. I also yet have to learn all features of C standard library - currently i mainly refer to the documentation and K&R ANSI C book. My C language knowledge includes not only fundamentals, but version, platform and compiller diferences - I known which features are aviliable where, and overally what quirks they bring. I really like concept of it, so I will still keep expanding my C knowledge.
+
+### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
