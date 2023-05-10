@@ -2,7 +2,7 @@
 
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
-- 🔭 I’m currently working on **Image Host**
+- 🔭 I’m currently working on ~~**Image Host**~~ **Mathematical Software**
 - 🌱 I’m currently learning **Randall's Hyde HLAssembly**
 - 👯 I’m looking to collaborate on **any project :)**
 - 🤔 I’m looking for help with **understanding C data alignment**
