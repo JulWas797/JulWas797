@@ -31,4 +31,16 @@ C is one of the newest language i learned, and many of the things of it still co
 
 ### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I understand Python fundamentals and basics, alrought i have yet to learn the advanced stuff. I used this language mainly for machine learning, so i had no need to learn this stuff.
+I understand Python fundamentals and basics, alrought i have yet to learn the advanced stuff. I used this language mainly for machine learning, so i had no need to learn this type of things.
+
+### // badge for c# here
+
+I mainly used C# to develop desktop windows applications for personal use, but I prefer to use VB.NET. Right now im trying to learn intermidiate and advanced concepts of it. 
+
+### // badge for apache groovy here
+
+Newest language i learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
+
+## Technologies i know 
+
+// todo
