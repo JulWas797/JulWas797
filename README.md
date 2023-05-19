@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ~~**Image Host**~~ **Mathematical Software**
 - 🌱 I’m currently learning **Randall's Hyde HLAssembly**
 - 👯 I’m looking to collaborate on **any project :)**
-- 🤔 I’m looking for help with **understanding C data alignment**
+- 🤔 I’m looking for help with ~~**understanding C data alignment**~~ **I understand it now :-)**
 - 💬 Ask me about **anything you desire**
 - 📫 How to reach me: **i will give a way soon ;)**
 - 😄 Pronouns: **he/him**
@@ -43,4 +43,20 @@ Newest language i learned. Im planning to use it for Grails development and as r
 
 ## Technologies i know 
 
-// todo
+### dotnet
+
+desc
+
+### numpy, pandas, sklearn etcera
+
+desc
+
+### java libs, spring, thymeleaf, maven, etc etc 
+
+desc
+
+### html, js, bootstrap5, etc
+
+desc 
+
+### ...
