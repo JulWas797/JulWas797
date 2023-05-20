@@ -13,12 +13,12 @@
 
 # More information about me 
 
-## Languages i know
+## Languages I know
 
 ### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-I would personally say that i have a solid java knowledge. I understand Java OOP concepts, design patterns and most of the used stuff.
-In terms of pure language, i understand most of the things - from basic I/O, thru Streams API to Security Manager and Synchronization. 
+I would personally say that I have a solid java knowledge. I understand Java OOP concepts, design patterns and most of the used stuff.
+In terms of pure language, I understand most of the things - from basic I/O, thru Streams API to Security Manager and Synchronization. 
 Altrought I may not know everything, that's what I'm trying to improve. Currently I am experimenting more with Java memory management and bytecode manipulation.
 
 ### ![VB.net](https://img.shields.io/badge/Visual%20Basic%20.NET-0000FF.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
@@ -33,11 +33,11 @@ C is one of the newest language i learned, and many of the things of it still co
 
 I understand Python fundamentals and basics, alrought i have yet to learn the advanced stuff. I used this language mainly for machine learning, so i had no need to learn this type of things.
 
-### // badge for c# here
+### ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 I mainly used C# to develop desktop windows applications for personal use, but I prefer to use VB.NET. Right now im trying to learn intermidiate and advanced concepts of it. 
 
-### // badge for apache groovy here
+### ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
 Newest language i learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
 
