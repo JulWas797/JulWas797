@@ -43,20 +43,46 @@ Newest language i learned. Im planning to use it for Grails development and as r
 
 ## Technologies i know 
 
-### dotnet
+### ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 
-desc
+I often use .NET library and it's features, especially in my VB.NET and C# projects. I have understanding of it's features and some advanced concepts like Microsoft Marshal.
 
-### numpy, pandas, sklearn etcera
+### ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-desc
+I used following libraries for learning/using ML.
 
-### java libs, spring, thymeleaf, maven, etc etc 
+### ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-desc
+I currently developed some stuff using Spring, SpringBoot with support from Thymeleaf - Besides that i am still learning this technologies and stuff like Spring Security or advanced features.
 
-### html, js, bootstrap5, etc
+### ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-desc 
+I used to manually configure Tomcat 8 for Java EE (Which I've decided not to include in this bio, as this technology is deprecated). I also use Tomcat as part of spring framework 
 
-### ...
+### ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
+
+Maven and Gradle are both tools I use, but i prefer maven over it. I rarely use Ant, but some legacy projects still decide to choose it
+
+### ![JUnit badge](https://img.shields.io/badge/junit-111111?style=for-the-badge&logo=junit5) ![Mockito badge](https://img.shields.io/badge/mockito-003300?style=for-the-badge&logo=mockito)
+
+I use JUnit5 and Mockito for writing unit tests in Java (Which i decide to do using Given-When-Then pattern)
+
+### ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) ![h2](https://img.shields.io/badge/h2%20database-0000bb?style=for-the-badge&logo=oracle)
+
+I've learned basics of SQLite databases, and currently my next plan is to learn MySQL. Visio was used by me to design databases using built in tools.
+
+### ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+I use it for web development.
+
+### ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+I configured and put servers under Azure free
+
+## IDEs I use
+
+|IDE|Language|
+|---|---|
+|![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|Java, HTML|
+|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|C, C#, VB|
+|![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)|Python|
