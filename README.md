@@ -86,3 +86,9 @@ I configured and put servers under Azure free
 |![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|Java, HTML|
 |![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|C, C#, VB|
 |![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)|Python|
+
+## Support my work!
+
+If you wish to support my work, you can buy me a coffee [here](https://bmc.link/julwas797). All of the money will go towards learning resources for me.
+
+___Only donate if you are 100% sure you want to do it!___
