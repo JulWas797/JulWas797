@@ -55,9 +55,16 @@ I used following libraries for learning/using ML.
 
 I currently developed some stuff using Spring, SpringBoot with support from Thymeleaf - Besides that I am still learning this technologies and stuff like Spring Security or advanced features.
 
+### ![Jakarta](https://img.shields.io/badge/-Jakarta%20EE-1B208B?style=for-the-badge&logo=eclipse&labelColor=F98200)
+
+_NOTE; At first my bio did not contain it at all, since there is currently almost no real usage for Java/Jakarta EE, but I've decided to include it anyways._
+
+I developed some basic server stuff and sites using Jakarta EE.
+
+
 ### ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
-I used to manually configure Tomcat 9 for Java EE (Which I've decided not to include in this bio, as this technology is deprecated). I also use Tomcat as part of spring framework 
+I used to manually configure Tomcat 9 for Java EE ~~(Which I've decided not to include in this bio, as this technology is deprecated)~~. I also use Tomcat as part of spring framework 
 
 ### ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white)
 
