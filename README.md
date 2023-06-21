@@ -41,9 +41,9 @@ I mainly used C# to develop desktop windows applications for personal use, but I
 
 Newest high-level language I learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
 
-### (GNU ASSEMBLER FOR ARM32 CPU'S)
+### ![ASM32 GAS](https://img.shields.io/badge/ASM32_GAS-000000.svg?style=for-the-badge)
 
-I know basics of GAS 4 ARM (32bit). Learned mainly for Raspberry PI Pico low level development. 
+I know basics of Gnu Assembler for ARM (32bit). Learned mainly for Raspberry PI Pico low level development. 
 
 ## Technologies I know 
 
