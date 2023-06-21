@@ -3,7 +3,7 @@
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
 - 🔭 I’m currently working on ~~**Image Host**~~ **Mathematical Software**
-- 🌱 I’m currently learning **Randall's Hyde HLAssembly**
+- 🌱 I’m currently learning **Nothing, because I am busy with personal life**
 - 👯 I’m looking to collaborate on **any project :)**
 - 🤔 I’m looking for help with ~~**understanding C data alignment**~~ **I understand it now :-)**
 - 💬 Ask me about **anything you desire**
@@ -39,7 +39,11 @@ I mainly used C# to develop desktop windows applications for personal use, but I
 
 ### ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
-Newest language I learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
+Newest high-level language I learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
+
+### (GNU ASSEMBLER FOR ARM32 CPU'S)
+
+I know basics of GAS 4 ARM (32bit). Learned mainly for Raspberry PI Pico low level development. 
 
 ## Technologies I know 
 
