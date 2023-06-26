@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **any project :)**
 - 🤔 I’m looking for help with ~~**understanding C data alignment**~~ **I understand it now :-)**
 - 💬 Ask me about **anything you desire**
-- 📫 How to reach me: **i will give a way soon ;)**
+- 📫 How to reach me: **email - julwas797[at]gmail.com**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **i love PBKDF2**
 
