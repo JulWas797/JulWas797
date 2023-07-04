@@ -2,14 +2,14 @@
 
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
-- 🔭 I’m currently working on ~~**Image Host**~~ **Mathematical Software**
+- 🔭 I’m currently working on **Way too many projects :P**
 - 🌱 I’m currently learning **Nothing, because I am busy with personal life**
-- 👯 I’m looking to collaborate on **any project :)**
-- 🤔 I’m looking for help with ~~**understanding C data alignment**~~ **I understand it now :-)**
-- 💬 Ask me about **anything you desire**
-- 📫 How to reach me: **email - julwas797[at]gmail.com**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **i love PBKDF2**
+- 👯 I’m looking to collaborate on **Literally any project :)**
+- 🤔 I’m looking for help with **Currently nothing**
+- 💬 Ask me about **Anything you desire**
+- 📫 How to reach me: **Email - julwas797[at]gmail.com**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love PBKDF2 algorithm**
 
 # More information about me 
 
@@ -95,7 +95,8 @@ I configured and put servers under Azure free
 |IDE|Language|
 |---|---|
 |![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)|Java, HTML|
-|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|C, C#, VB|
+|![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)|C|
+|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|C#, VB|
 |![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)|Python|
 
 ## Support my work!
