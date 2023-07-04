@@ -27,7 +27,7 @@ VB.net is the language I coded in the most. While doing so I learned many of the
 
 ### ![C Lang](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-C is one of the newest language i learned, and many of the things of it still confuse me. I also yet have to learn all features of C standard library - currently I mainly refer to the documentation and K&R ANSI C book. My C language knowledge includes not only fundamentals, but version, platform and compiller diferences - I known which features are aviliable where, and overally what quirks they bring. I really like concept of it, so I will still keep expanding my C knowledge.
+I learned C for low level stuff, and to get more into internals, while still keeping the layer between assembly and high-level like C++. I yet have to learn all features of C standard library - currently I often refer to the documentation, K&R "ANSI C" or StackOverflow. My C language knowledge includes not only fundamentals, but version, platform and compiller diferences - I known which features are aviliable where, and overally what quirks they bring. I really like concept of it, so I will still keep expanding my C knowledge.
 
 ### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -39,11 +39,11 @@ I mainly used C# to develop desktop windows applications for personal use, but I
 
 ### ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 
-Newest high-level language I learned. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
+Simple Alt-Java i learend. Im planning to use it for Grails development and as replacement for Java, especially in tiny scale projects. 
 
 ### ![ASM32 GAS](https://img.shields.io/badge/ASM32_GAS-000000.svg?style=for-the-badge)
 
-I know basics of Gnu Assembler for ARM (32bit). Learned mainly for Raspberry PI Pico low level development. 
+I know basics of Gnu Assemblly for ARM (32bit). Learned mainly for Raspberry PI Pico low level development. (On a quick note: If you want to learn it, check "Blue Fox" course)
 
 ## Technologies I know 
 
