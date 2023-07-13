@@ -13,7 +13,7 @@
 
 # More information about me 
 
-> ### This section with better details plus cleaner & segregated look is aviliable [at my website](julwas797.github.io)
+> ### This section with better details plus cleaner & segregated look is aviliable [at my website](https://julwas797.github.io/)
 
 ## Languages I know
 
