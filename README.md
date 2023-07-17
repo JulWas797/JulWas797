@@ -3,7 +3,7 @@
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
 - 🔭 I’m currently working on **Way too many projects :P**
-- 🌱 I’m currently learning **Nothing, because I am busy with personal life**
+- 🌱 I’m currently learning **Spock :P**
 - 👯 I’m looking to collaborate on **Literally any project :)**
 - 🤔 I’m looking for help with **Currently nothing**
 - 💬 Ask me about **Anything you desire**
