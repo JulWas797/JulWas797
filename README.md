@@ -11,7 +11,7 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love PBKDF2 algorithm**
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julwas797&layout=compact&hide=jupyter%20notebook)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julwas797&layout=compact&hide=jupyter%20notebook&langs_count=8)
 
 # More information about me 
 
