@@ -3,14 +3,14 @@
 
 ### I'm JulWas797 - Student from Poland just wondering with code.
 
-- 🔭 I’m currently working on **Way too many projects :P**
-- 🌱 I’m currently learning **Allegro (C)**
-- 👯 I’m looking to collaborate on **Literally any project :)**
+- 🔭 I’m currently working on **Work :P**
+- 🌱 I’m currently learning **C++**
+- 👯 I’m looking to collaborate on **~~Literally any project :)~~ I am busy**
 - 🤔 I’m looking for help with **Currently nothing**
 - 💬 Ask me about **Anything you desire**
 - 📫 How to reach me: **Email - julwas797[at]gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love PBKDF2 algorithm**
+- ⚡ Fun fact: **Unit testing is best thing that was ever invented**
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julwas797&layout=compact&hide=jupyter%20notebook&langs_count=8)
 
